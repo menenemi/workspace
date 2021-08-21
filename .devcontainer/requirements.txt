@@ -1,0 +1,10 @@
+anaconda
+numba
+numpy
+pandas
+pandas-datareader
+patsy
+scikit-learn
+scipy
+statsmodels
+sympy

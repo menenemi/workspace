@@ -1,0 +1,15 @@
+{
+    "name": "workspace",
+    "dockerComposeFile": [
+        "docker-compose.yml"
+    ],
+    "service": "workspace",
+    "extensions": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+		"ms-toolsai.jupyter",
+		"ms-azuretools.vscode-docker",
+		"mhutchie.git-graph",
+    ],
+    "workspaceFolder": "/workspace"
+}
